@@ -1,0 +1,11 @@
+{
+  "name": "mean-todo",
+  "version": "1.0.0",
+  "description": "MEAN Stack To Do based on the tutorial at teamtreehouse.com",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Gursky",
+  "license": "ISC"
+}
